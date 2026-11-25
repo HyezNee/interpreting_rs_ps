@@ -2,6 +2,4 @@
 
 EACL 2027 Main
 
-## TODO
-
 Codes are coming soon!
